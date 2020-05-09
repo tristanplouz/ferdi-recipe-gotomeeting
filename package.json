@@ -4,7 +4,7 @@
   "version": "0.2.0",
   "description": "GoToMeeting App",
   "main": "index.js",
-  "repository":"https://github.com/tristanplouz/franz-recipe-gotomeeting.git",
+  "repository":"https://github.com/tristanplouz/ferdi-recipe-gotomeeting.git",
   "author": "Tristan D",
   "license": "MIT",
   "config": {
